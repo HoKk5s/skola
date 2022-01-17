@@ -1,0 +1,14 @@
+- romantismus, NO, realismus v hudbě není
+- Čechy konzervatoř evropy, co čech to muzikant
+- 1811 - pražská hudební konzervatoř
+- Stavovské divadlo - první česká hra - Dráteník
+  - zpěvohra
+  - hudbu složil František Škroup (také složil hudbu k Fidlovačce)
+- sběratelé lidových písní
+- František sušil - Moravské písně národní
+- K. J. Erben - Písně národní v čechách
+- František Bartoš - Moravské lidové písně
+- plesy, třasáky, skočné rejdovánky
+- vzniká polka
+- stilizace polky - úprava k poslechu
+- základní kámen Národního divadla, B. Smetana projev nutnosti českého divadlo

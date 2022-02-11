@@ -1,0 +1,11 @@
+- Wattové pobřeží (Watty)
+  - pobřežní bahnitá mělčina
+- Obyvatelstvo
+  - 80 mil.
+  - větší část ve městech
+  - protestavství, katolictví (Bavorsko), islám
+  - záporný přirozrný přírustek obyatel
+  - imigrace (Asie, severní Afrika i ostatní evropské státy)
+    - převážně muži do 40 let (remitence)
+    - tradice gastarbaiterů
+  - 

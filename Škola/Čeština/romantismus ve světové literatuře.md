@@ -1,7 +1,24 @@
-### Lterární žánry
+- [Romantické znaky](#romantické-znaky)
+  - [Literární žánry](#literární-žánry)
+- [Anglická romantická literatura](#anglická-romantická-literatura)
+  - [Autoři](#autoři)
+    - [George Gordon Byron](#george-gordon-byron)
+    - [Percy Bysshe Shelley (1792-1822)](#percy-bysshe-shelley-1792-1822)
+    - [Walter Scott](#walter-scott)
+    - [Jane Austenová](#jane-austenová)
+    - [úkol – ukázka z bídníků  + matky Boží – společný motiv](#úkol--ukázka-z-bídníků---matky-boží--společný-motiv)
+    - [Stendhal (Henri Beyle)](#stendhal-henri-beyle)
+    - [Alexander Dumas starší](#alexander-dumas-starší)
+    - [Alexander Dumas mladší](#alexander-dumas-mladší)
+    - [Nikolaj Vasiljevič Gogol](#nikolaj-vasiljevič-gogol)
+    - [Hodina 2/2/2022 - úkol Nikolaj V. Gogol - Revizor](#hodina-222022---úkol-nikolaj-v-gogol---revizor)
+      - [Zadání](#zadání)
+      - [Řešení](#řešení)
+## Romantické znaky
+### Literární žánry
 - román
 - historický román
-- povídkahistorická povídka
+- povídka, historická povídka
 - dramatické básně
 - epos
   - filozofický epos
@@ -9,11 +26,11 @@
   - spíš delší liricko-epická
   - děj naznačen, není to hlavní
     - dějové prvky tam jsou
-  - liriská složka stejně důležitá jako epická, ne-li důležitější
+  - lirická složka stejně důležitá jako epická, ne-li důležitější
 
 ## Anglická romantická literatura
 ### Autoři
-Většina autorů se nodožilo vysokého věku
+Většina autorů se nedožilo vysokého věku
 #### George Gordon Byron
 - šlechtického původu, dětství poznamenáno charaktery rodičů
   - otec neumí s penězi, alkoholik
@@ -26,7 +43,7 @@ Většina autorů se nodožilo vysokého věku
   - Jede do Řecka aby bojoval v národně-osvobozovacích bojích proti turkům
     - dříve než se mu to podaří zemře
 - do svých děl dává autogeografické náměty
-- nejvíc v "Chlide Heroldova pouť" moderní až filosofický epos slouží k prezentování svýchmyšlenek
+- nejvíc v "Chlide Heroldova pouť" moderní až filosofický epos slouží k prezentování svých myšlenek
 - liricko-epické Povídky
   - Džaur
   - Korzár
@@ -39,7 +56,7 @@ Většina autorů se nodožilo vysokého věku
 
 #### Percy Bysshe Shelley (1792-1822)
 - už jako mladý zahájil svoji kariéru, tím že unesl mladé děvče a později si ji vzal
-  - ona byl záletník, ona kvůli tomu spáchala sebevraždu
+  - on byl záletník, ona kvůli tomu spáchala sebevraždu
 - vzal si druhou ženu "Mary Shelleyová", která byla také spisovatelka
   - vymyslela Frankesteinovo mostrum
 - Vyjel si na jachtě, něco se pokazilo, jachta se převrhla, zemřel
@@ -115,3 +132,22 @@ Většina autorů se nodožilo vysokého věku
 - Dáma s kaméliemi
   - dívka se dostává to vyšších společenských vrstev, protože je prostitutka a je velmi krásná, začali si jí všímat vlivní lidé
 - říká se že Dumas ml. psal částečně o vlastních zkušenostech, a část svého života s podobnou ženou strávil
+
+#### Nikolaj Vasiljevič Gogol
+- Revizor
+- Mrtvé duše
+
+#### Hodina 2/2/2022 - úkol Nikolaj V. Gogol - Revizor
+##### Zadání
+1. charakterizuj Chlestakova
+   1. vyhledej v textu tři povolání které údajě vykonává
+2.  najdi jména tří spisovatelů/skladatelů/názvy opery o kterých hovoří
+   1. čeho tím chce dosáhnout
+##### Řešení
+1. Vychloubačný mladík, využívající neznalost ostatních, ke svému prospěchu, touží po pozorosti a obdivu
+   1. korektor
+   2. spisovatel
+   3. vede salon
+   4. šéf odboru
+2. Puškin, Figarova svadba, Robert Ďábel, Norma (kniha "Jiří Miroslavský")
+   1. Obdivu u ostatních

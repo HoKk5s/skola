@@ -1,3 +1,5 @@
+# Je potřeba VS Code s Latex rozšíření pro markdown pro správné zobrazení 
+
 ## Teplotní roztažnost kapalin
 $\triangle V = V_0 \cdot \beta \cdot \triangle t$  
 $\beta - součinitel\;teplotní\;objemové\;roztažnosti\;[K^-1]$  

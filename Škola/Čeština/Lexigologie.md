@@ -1,3 +1,5 @@
+#
+
 Slohový postup | slohové útvary | funkční Styly
 -|-|-
 prostě sdělovací | vypravování | úvahový
@@ -10,7 +12,8 @@ umělecký
 
 ![Analýza](/Čeština/analýza_neuměleckého_textu.jpg)
 
-### Úvodník (učebnice 2., str. 112)
+## Úvodník (učebnice 2., str. 112)
+
 - slohový postup - umělecký
 - slohové útvary - Úvodník
-- funkční styl - 
+- funkční styl -

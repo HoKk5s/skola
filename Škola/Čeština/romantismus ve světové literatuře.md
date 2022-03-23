@@ -9,11 +9,11 @@ em {color: #c672bd}
     - [George Gordon Byron (1788-1824)](#george-gordon-byron-1788-1824)
       - [Díla](#díla)
     - [Percy Bysshe Shelley (1792-1822)](#percy-bysshe-shelley-1792-1822)
-      - [Díla](#díla-1)
+      - [P.B.Shelley Díla](#pbshelley-díla)
     - [Walter Scott (1771-1832)](#walter-scott-1771-1832)
       - [Díla (historické romány s dobrodružnými prvky)](#díla-historické-romány-s-dobrodružnými-prvky)
     - [Jane Austenová (1775-1817)](#jane-austenová-1775-1817)
-      - [Díla](#díla-2)
+      - [J.Austenová Díla](#jaustenová-díla)
   - [Francouzká literature](#francouzká-literature)
     - [úkol – ukázka z bídníků (__četl jsem část__;_viděl jsem_) + matky Boží (__četli jsme část__;_viděli jsme část_)](#úkol--ukázka-z-bídníků-četl-jsem-částviděl-jsem--matky-boží-četli-jsme-částviděli-jsme-část)
     - [Stendhal (Henri Beyle) (1783-1842)](#stendhal-henri-beyle-1783-1842)
@@ -21,26 +21,28 @@ em {color: #c672bd}
     - [Alexander Dumas mladší (1824-1895)](#alexander-dumas-mladší-1824-1895)
   - [Německá literatura](#německá-literatura)
     - [Novalis (1772-1801)](#novalis-1772-1801)
-      - [díla:](#díla-3)
+      - [díla](#díla-1)
     - [Jacob a Wilhelm Grimmové (1785-1863 a 1786-1859)](#jacob-a-wilhelm-grimmové-1785-1863-a-1786-1859)
-      - [díla:](#díla-4)
+      - [Bratři Grimmové díla](#bratři-grimmové-díla)
     - [Heinrich Heine (1797-1856)](#heinrich-heine-1797-1856)
-      - [díla:](#díla-5)
+      - [H.Heine díla](#hheine-díla)
   - [Ruská literature](#ruská-literature)
     - [Alexandr Sergejevič Puškin (1799-1837)](#alexandr-sergejevič-puškin-1799-1837)
-      - [díla:](#díla-6)
+      - [A.S.Puškin díla](#aspuškin-díla)
     - [Nikolaj Vasiljevič Gogol (1809-1852)](#nikolaj-vasiljevič-gogol-1809-1852)
-      - [díla:](#díla-7)
+      - [N.V.Gogol díla](#nvgogol-díla)
     - [Hodina 2/2/2022 - úkol Nikolaj V. Gogol - Revizor](#hodina-222022---úkol-nikolaj-v-gogol---revizor)
       - [Zadání](#zadání)
       - [Řešení](#řešení)
   - [Americká literatura](#americká-literatura)
     - [Edgar Allan Poe (1809-1849)](#edgar-allan-poe-1809-1849)
-      - [díla:](#díla-8)
+      - [E.A.Poe díla](#eapoe-díla)
   - [Dánská literatura](#dánská-literatura)
     - [Hans Christian Andersen (1805-1875)](#hans-christian-andersen-1805-1875)
-      - [díla:](#díla-9)
+      - [H.Ch.Andersen díla](#hchandersen-díla)
+
 ## Romantické znaky
+
 - od začátku Velké francouzské revoluce (1789) vzniká romantismus jako myšlenkové hnutí a umělecký směr, datujeme od konce 18. století do první třetiny 19. století
 - vyjadřuje touhu po svobodném myšlení (politickém i tvůrčím)
 - zdůrazňuje cit, vášeň, fantasii, soustředí se na jedince = individualismus, subjektivismus, modernismus
@@ -48,7 +50,7 @@ em {color: #c672bd}
   - dopad na architekturu – vznikaly falešné zříceniny
 - projev romantismu v literatuře
   - důraz na spontánnost, cit, fantasii, tvůrčí svobodu
-  - hrdina často stojí proti společnosti 
+  - hrdina často stojí proti společnosti
     - setkávají se s neřešitelným konfliktem se světem
     - útěk od reality – myšlenkový (útěk do snů nebo do vzpomínek z dětství) i reálný (např. odstěhuje se do cizího národa)
     - touha po lásce – často bývá nešťastná
@@ -60,9 +62,13 @@ em {color: #c672bd}
   - básnická povídka – lyricko-epická, děj v ní bývá pouze naznačen
 
 ## Anglická romantická literatura
+
 ### Autoři
+
 Většina autorů se nedožilo vysokého věku
+
 #### George Gordon Byron (1788-1824)
+
 - šlechtického původu, dětství poznamenáno charaktery rodičů
   - otec neumí s penězi, alkoholik
   - matka střídavě návaly lásky a vzteku
@@ -75,12 +81,15 @@ Většina autorů se nedožilo vysokého věku
     - dříve než se mu to podaří zemře
 - do svých děl dává autobiografické náměty
 - Spleen - světobol
+
 ##### Díla
-  - moderní filosofický epos – Child Haroldova pouť
-  - básnické povídky – Džaur, Laura
-  - filosofická veršovaná dramata – Kain, Malfred
+
+- moderní filosofický epos – Child Haroldova pouť
+- básnické povídky – Džaur, Laura
+- filosofická veršovaná dramata – Kain, Malfred
 
 #### Percy Bysshe Shelley (1792-1822)
+
 - už jako mladý zahájil svoji kariéru, tím že unesl mladé děvče a později si ji vzal
   - on byl záletník, ona kvůli tomu spáchala sebevraždu
 - vzal si druhou ženu "Mary Shelleyová", která byla také spisovatelka
@@ -88,7 +97,9 @@ Většina autorů se nedožilo vysokého věku
 - Vyjel si na jachtě, něco se pokazilo, jachta se převrhla, zemřel
 - Mary Shelleyová se snažila zachovat jeho odkaz
   - ti co ho znali věděli že to byla velice tvrdohlavá nevyrovnaná osobnost, navzdory tomu co říkala Mary
-##### Díla
+
+##### P.B.Shelley Díla
+
 - Odpoutaný Prometheus - polemika
   - reaguje na antické Aischyllovo dílo, Prometheus Spoutaný
     - Nakonci nechá prométhea podřídit se Diovi, usmířeni mezi nimi
@@ -97,35 +108,44 @@ Většina autorů se nedožilo vysokého věku
 - Óda na západní vítr (__četli sme__)
 
 #### Walter Scott (1771-1832)
-- něco jako zakladatel hystorického románu a  historické povídky 
+
+- něco jako zakladatel hystorického románu a  historické povídky
   - jeho přípěhy vycházejí ze skutečnosti, velmi dobrodružné
+
 ##### Díla (historické romány s dobrodružnými prvky)
+
 - Srdce Edinburgu
 - Waverley
 - Ivanhoe
 
 #### Jane Austenová (1775-1817)
+
 - především emancipované ženské hrdinky
 - boj proti společenským předsudkům
-##### Díla
+
+##### J.Austenová Díla
+
 - Pýcha a Předsudek (_viděl jsem_)
 - Rozum a Cit
 - Ema
 
 ### Francouzká literature
+
 #### úkol – ukázka z bídníků (__četl jsem část__;_viděl jsem_) + matky Boží (__četli jsme část__;_viděli jsme část_)
+
 - realistické x romanticné prvky
 - hrdina na okraji společnosti + církevní hodnostáři
 - hl. hrdina čeká že se mu někdo zaslouženě pomstí, ale místo to dostanou pomoc
-  - po této zkušenosti změna k lepšímu 
+  - po této zkušenosti změna k lepšímu
 - negativní zkušenost, která je provází životem
 - romantické prvky: hrdina na okraji, neopětovaná láska, kontrasty, cit, vášeň
 - realisické prvky: skutečné hist. Popisy
 
 #### Stendhal (Henri Beyle) (1783-1842)
+
 - velký romanopisec
 - tvorba na rozhraní mezi romnatismem a realismem
-- Romantické: jeho hrdinové prožívají vášnivé lásky, bouří se proti společnosti 
+- Romantické: jeho hrdinové prožívají vášnivé lásky, bouří se proti společnosti
 - Realistické: popis společtnosti
 - řadu věcí naznačuje, počítá s vnímavým čtenářem
 - často děj vnímán skrze nějakou konkrétní postavu
@@ -144,6 +164,7 @@ Většina autorů se nedožilo vysokého věku
   - Kartouza parmská
 
 #### Alexander Dumas starší (1802-1870)
+
 - asi nepracoval sám, prý měl dílnu 30-40 lidí, kteří sbírali historické popisy a tovřili "omáčku" kolem, on se zaměřil na akčnost a přátelství
 - tři mušketýři
   - několika dílný román
@@ -153,6 +174,7 @@ Většina autorů se nedožilo vysokého věku
 - hrabě de monte christo
 
 #### Alexander Dumas mladší (1824-1895)
+
 - syn Al. Du. st.
 - spíše realistická díla
 - Dáma s kaméliemi
@@ -160,31 +182,46 @@ Většina autorů se nedožilo vysokého věku
 - říká se že Dumas ml. psal částečně o vlastních zkušenostech, a část svého života s podobnou ženou strávil
 
 ### Německá literatura
+
 #### Novalis (1772-1801)
-##### díla:
+
+##### díla
+
 - texty psané rytmizovanou prózou – Hymny noci
   - pokoušel se o propojení filosofických otázek s vírou a přírodou
   - vyskytuje se kontrast dne a noci
+
 #### Jacob a Wilhelm Grimmové (1785-1863 a 1786-1859)
+
 - pohádkáři, věnovali se folkloristice
 - velmi drsné motivy v původních verzích pohádek
-##### díla:
+
+##### Bratři Grimmové díla
+
 - Pohádky pro děti a celou rodinu (Červená karkulka, Sněhurka,…)
+
 #### Heinrich Heine (1797-1856)
+
 - dlouho žil i zemřel ve Francii
 - silně ironická tvorba
 - psal balady a romance
-##### díla:
+
+##### H.Heine díla
+
 - básnická sbírka – Kniha písní
 - balada – Lorelei
 
-### Ruská literature 
+### Ruská literature
+
 #### Alexandr Sergejevič Puškin (1799-1837)
+
 - vedl bouřlivý život, účastnil se všemožných povstání
 - jeho ruština se díky své jednoduchosti stala vzorovou pro další autory
 - psal prózu i poezii, lyriku, epiku i lyriko-epiku
   - poéma – lyricko-epická skladba, podobná básnickým povídkám
-##### díla:
+
+##### A.S.Puškin díla
+
 - poémy – Kavkazský zajatec, Cikáni, Měděný jezdec
 - román ve verších – Evžen Oněgin (__četli jsme dopis Taťány__)
   - vyskytují se lyrické pasáže i epické prvky
@@ -192,13 +229,16 @@ Většina autorů se nedožilo vysokého věku
   - rozděleno do devíti hlav (údajná desátá se buďto ztratila nebo ji Puškin zničil)
   - psáno ve 14 veršových sonetech (12-2), jambická stopa s přesným veršovým schématem (stejně jako Shakespearova tvorba)
   - hlavní postava Evžen – tzv. zbytečný člověk
-- povídka – Piková dáma (mystický příběh, opera 
+- povídka – Piková dáma (mystický příběh, opera
 Piková dáma od Čajkovského)
 
 #### Nikolaj Vasiljevič Gogol (1809-1852)
+
 - propojení romantických a realistických prvků v jeho dílech
 - původem z Ukrajiny, inspirován Puškinem
-##### díla:
+
+##### N.V.Gogol díla
+
 - prózy – Večery na samotě u Dikaňky
   - prvky ukrajinského folklóru, pohádkově fantastická a zároveň realistická tvorba
 - romantická povídka – Taras Bulba
@@ -215,12 +255,16 @@ Piková dáma od Čajkovského)
   - děj: úředník Chlestakov využívá nedorozumění, když si ho v jednom městě spletou s očekávanou návštěvou revizora
 
 #### Hodina 2/2/2022 - úkol Nikolaj V. Gogol - Revizor
+
 ##### Zadání
+
 1. charakterizuj Chlestakova
    1. vyhledej v textu tři povolání které údajě vykonává
-2.  najdi jména tří spisovatelů/skladatelů/názvy opery o kterých hovoří
-   1. čeho tím chce dosáhnout
+2. najdi jména tří spisovatelů/skladatelů/názvy opery o kterých hovoří
+3. čeho tím chce dosáhnout
+
 ##### Řešení
+
 1. Vychloubačný mladík, využívající neznalost ostatních, ke svému prospěchu, touží po pozorosti a obdivu
    1. korektor
    2. spisovatel
@@ -230,18 +274,26 @@ Piková dáma od Čajkovského)
    1. Obdivu u ostatních
 
 ### Americká literatura
+
 #### Edgar Allan Poe (1809-1849)
+
 - zakladatel hororové a detektivní povídky
 - prozaik i básník, míšení romantismu a realismu v tvorbě
-##### díla:
-- <a href="E_A_Poe.pdf">povídky</a> (__četli jsme__)
+
+##### E.A.Poe díla
+
+- [povídky](E_A_Poe.pdf) (__četli jsme__)
 - básnická skladba – Havran (__četli jsme__)
   - havran jako symbol smutku a trápení hlavního hrdiny nad smrtí své milované
 
 ### Dánská literatura
+
 #### Hans Christian Andersen (1805-1875)
+
 - velmi tragický život
 - tvořil pohádky pro děti i dospělé, autobiografické motivy
-##### díla:
+
+##### H.Ch.Andersen díla
+
 - Nové pohádky a povídky
   - Ošklivé káčátko, Malá mořská víla

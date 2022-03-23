@@ -1,7 +1,11 @@
 # Edgar Allan Poe
+
 ## Rozbor povídek
+
 Vypracoval: Jan Vranka
+
 ### Jáma a kyvadlo
+
 1. Část
    - literární druh a žánr: epika, hororová povídka, psychologická povídka
    - téma: inkvizice, strach, tajemno, mučení (psychické)
@@ -16,26 +20,30 @@ Vypracoval: Jan Vranka
      - kacíř - hlavní postava a vyprevěč
        - kvůli vyčerpanosti působí poněkud zmateně
        - přesto že byl vyhladovělý a skoro mrtvý, vymyslel plán úniku -> vysoký intelekt
+
 ### Maska červené smrti
+
 1. část
    - literární druh a žánr: epika, fantasijní povídka
    - téma: mor, strach, pocit bezpečí, smrt
    - motivy: morová epidemie, bezpečí dvořanů, maškarní ples, ebenové hodiny, Prosperova velkolepost, odbjíení půlnoci, maska Červené smrti
    - časoprostor: klášter prince Prospera, období není určeno (odhaduji 14. století)
    - kompoziční výstavba: chronologická
-2. část 
+2. část
    - vypravěč: není blíže specifikován, stojí mimo děj, er-forma
    - vyprávěčí způsoby: nepřímá řeč, přímá řeč když Prospero mluvil k postavě Červené smrti
    - typy promluv: pásmo vypravěče, monolog
-   - postavy: 
-     - princ Prospero	
+   - postavy:
+     - princ Prospero
        - v zemi řádí mor a on zavírá sebe a své přátelé k sobě do zámku aby je uchránil
        - přestože u sebe velkoryse uvítá spoustu dvořanů, ostatní nechá chladnokrevně zemřít
        - velkolepý, extravagantní člověk, mohl působit šíleně, ale šílený rozhodně nebyl
-     - Červená smrt 
+     - Červená smrt
        - symbol moru, smrti
      - dvořané
+
 ### Černý kocour
+
 1. část
    - literární druh a žánr: epika, hororová povídka, psychologická povídka
    - téma: alkohol, zlost, proměna člověka
@@ -47,15 +55,15 @@ Vypracoval: Jan Vranka
    - vypravěč: hlavní hrdina povídky, ich-forma
    - vyprávěcí způsoby: nepřímá řeč, přímá řeč když hlavní hrdina mluví k policistům
    - typy promluv: pásmo vypravěče
-   - postavy: 
-     - hlavní hrdina 
+   - postavy:
+     - hlavní hrdina
        - už od dětství měl rád zvířata
        - pravděpodobně neměl dobré skušenosti s lidmi
        - začal pít a stal se bezohledný a agresivní
-      - žena hlavního hrdiny
+       - žena hlavního hrdiny
        - trpělivá a odevzdaná svému muži, který už není tím, do koho se zamilovala, její touha a naděje se jí stane osudnou
-      - černý kocour Pluto
-      - černý kocour s bílou skvrnou
+       - černý kocour Pluto
+       - černý kocour s bílou skvrnou
 3. část
    - jazykové prostředky:
    - slova hanlivá: odporně, obluda, příšera
@@ -65,7 +73,9 @@ Vypracoval: Jan Vranka
    - tropy
      - epiteton: chimérická představa
      - metonymie: Nejvyšší (Bůh)
+
 ### Vraždy v ulici Morgue
+
 1. část
    - literární druh a žánr: epika, detektivní povídka
    - téma: záhada uzavřené místnosti, nadměrná inteligence
@@ -84,7 +94,7 @@ Vypracoval: Jan Vranka
        - má vynikající analytickou mysl
          - bez problému přijde na záhadu vraždy v uzavřené místnosti
          - vkládá velkou důvěru ve své schopnosti a nebojí se riskovat
-     - námořník 
+     - námořník
        - sympatický muž statné postavy
        - vystrašený kvůli pocitu viny z útěku orangutana
      - policejní prefekt
@@ -95,7 +105,9 @@ Vypracoval: Jan Vranka
      - paní L’Espanayová
      - dcera paní L’Espanay
      - orangutan
+
 ### Zlatý brouk
+
 1. část
    - literární druh a žánr: epika, dobrodružná povídka
    - téma: hledání pokladu, náhodný objev, štěstí
